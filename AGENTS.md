@@ -206,8 +206,6 @@ The first line of every documentation file must clearly state the **target/subje
 - Gantt charts: Project timelines
 
 **Example Mermaid diagram:**
-````markdown
-```mermaid
 sequenceDiagram
     participant Robot
     participant ArUco Detector
@@ -217,8 +215,6 @@ sequenceDiagram
     ArUco Detector-->>Robot: Marker pose
     Robot->>Docking Controller: Update target
     Docking Controller-->>Robot: Velocity commands
-```
-````
 
 **When NOT to use Mermaid:**
 - Complex architectural diagrams requiring custom layouts
