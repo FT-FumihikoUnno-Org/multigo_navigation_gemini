@@ -1,0 +1,1 @@
+# Detailed Technical Documentation for camera_publisher

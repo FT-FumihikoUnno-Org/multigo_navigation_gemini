@@ -1,0 +1,1 @@
+# Detailed Technical Documentation for nav_control
