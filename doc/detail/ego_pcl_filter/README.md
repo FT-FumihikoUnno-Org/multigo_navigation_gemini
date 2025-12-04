@@ -1,0 +1,1 @@
+# Detailed Technical Documentation for ego_pcl_filter

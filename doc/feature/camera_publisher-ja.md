@@ -1,1 +1,1 @@
-# Feature Documentation for camera_publisher (Japanese)
+# camera_publisherの機能ドキュメント

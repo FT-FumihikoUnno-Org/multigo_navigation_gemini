@@ -1,1 +1,1 @@
-# Feature Documentation for pcl_merge (Japanese)
+# pcl_mergeの機能ドキュメント

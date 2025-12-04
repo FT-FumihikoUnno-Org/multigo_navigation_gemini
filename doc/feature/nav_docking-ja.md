@@ -1,1 +1,1 @@
-# Feature Documentation for nav_docking (Japanese)
+# nav_dockingの機能ドキュメント

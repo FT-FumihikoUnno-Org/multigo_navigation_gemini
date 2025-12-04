@@ -1,1 +1,1 @@
-# Feature Documentation for aruco_detect (Japanese)
+# aruco_detectの機能ドキュメント

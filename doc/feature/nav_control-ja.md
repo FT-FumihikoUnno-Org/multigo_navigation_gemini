@@ -1,1 +1,1 @@
-# Feature Documentation for nav_control (Japanese)
+# nav_controlの機能ドキュメント

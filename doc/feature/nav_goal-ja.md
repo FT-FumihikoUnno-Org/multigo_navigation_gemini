@@ -1,1 +1,1 @@
-# Feature Documentation for nav_goal (Japanese)
+# nav_goalの機能ドキュメント
