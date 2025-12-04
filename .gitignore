@@ -24,3 +24,6 @@ src/HesaiLidar_ROS_2.0
 
 src/mecanum_drive
 
+
+.gemini/
+gha-creds-*.json
